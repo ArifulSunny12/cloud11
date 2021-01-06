@@ -1,0 +1,42 @@
+
+.logo-image{
+	width: 50px;
+	height: 30px;
+	border-radius: 5px;
+
+
+}
+
+.shadow1{
+	box-shadow: 0px 1px 10px black;
+	background-color: white;
+}
+
+
+.ltsp{
+	letter-spacing: 2px;
+}
+
+.ltsp7{
+	font-size: 40px;
+	letter-spacing: 7px;
+}
+
+.ltsp5{
+	letter-spacing: 5px;
+}
+
+.ltfmly{
+	font-family:Courier New;
+}
+
+.fntsz{
+font-size: 16px;
+}
+
+.fntsz14{
+font-size: 14px;
+}
+
+
+
